@@ -1,8 +1,8 @@
 # os181
-OS CSUI 2018
+ZCZC Sistem Operasi 2018 Awal (1)
 
 ## about me
-| -     | -
+| Title | Description
 |-------|-----------------------------
 | name  | Rayza Arasj Mahardhika
 | npm   | 1606876052
