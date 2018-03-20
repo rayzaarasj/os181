@@ -5,6 +5,12 @@ ZCZC Week01 Done
 
 ZCZC Week02 Done
 
+ZCZC Week03 Done
+
+ZCZC Week04 Done
+
+ZCZC Week05 Done
+
 #### About Me
 
 | Title | Description
